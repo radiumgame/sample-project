@@ -1,0 +1,7 @@
+{
+  "blinnLighting": false,
+  "gammaCorrection": true,
+  "HDR": true,
+  "gamma": 0.85,
+  "exposure": 0.85
+}
